@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrugSearch</string>
+    <string name="drug_name">Drug Name: %1$s</string>
+    <string name="drug_type">Drug Type: %1$s</string>
+    <string name="used_for">Used For: %1$s</string>
+    <string name="potential_side_effects">Potential Side Effects: %1$s</string>
+    <string name="safe_during_pregnancy">Safe to Take During Pregnancy: %1$s</string>
+    <string name="do_not_take_with">Do Not Take With: %1$s</string>
+
+</resources>
